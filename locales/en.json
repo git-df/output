@@ -1,0 +1,15 @@
+{
+  "DarkModeSwitcher.DarkMode": "Dark",
+  "DarkModeSwitcher.LightMode": "Light",
+  "Nav.About": "About",
+  "Nav.Skills": "Skills",
+  "Nav.Projects": "Projects",
+  "Nav.Contact": "Contact",
+  "NotFound.Title": "Not Found",
+  "NotFound.Message": "Sorry, the content you are looking for does not exist.",
+  "Home.Hero.Top": "Hi, I'm",
+  "Home.Hero.Mid": "DAWID FLORIAN",
+  "Home.Hero.Bottom": ".NET Developer",
+  "Contact.Title": "Contact",
+  "Contact.Subtitle": "Have a question or want to work together? Feel free to reach out!"
+}
